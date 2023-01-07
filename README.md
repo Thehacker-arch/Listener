@@ -1,2 +1,2 @@
 # Listener
-A GUI Listener made in C#, but no code here :) only compiled exe
+A GUI Listener made in C#, better than netcat ??
